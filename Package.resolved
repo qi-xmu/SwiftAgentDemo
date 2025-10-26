@@ -1,6 +1,15 @@
 {
-  "originHash" : "09d61842e3ba60ff722d9f4095f9f8f91f3e39861e6ac4ee2f8e655b90def8eb",
+  "originHash" : "018fd43640709c5cd1ce92f1584cb8c2a1c1987f81f87fab01e6f2876f0f3d54",
   "pins" : [
+    {
+      "identity" : "openai",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/qi-xmu/OpenAI.git",
+      "state" : {
+        "revision" : "4984bd5fad4da0dce97c337751ba22919e0ef350",
+        "version" : "0.4.6"
+      }
+    },
     {
       "identity" : "swift-http-types",
       "kind" : "remoteSourceControl",
